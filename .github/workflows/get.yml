@@ -26,7 +26,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://v2rayssr.com/ -o v2rayssr.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://youtube.com/ -o youtube.com.jpg
 
-        curl https://purge.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/*.*
+        curl https://purge.jsdelivr.net/gh/leazhi/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
