@@ -24,7 +24,6 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://v2.hysteria.network/ -o v2.hysteria.network.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://naiyous.com/ -o naiyous.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://v2rayssr.com/ -o v2rayssr.com.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://youtube.com/ -o youtube.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.youtube.com/watch?v=hwFvSL5Zz2w -o www.youtube.com.jpg
         
         curl https://purge.jsdelivr.net/gh/leazhi/ScreenShot@gh-pages/*.*
