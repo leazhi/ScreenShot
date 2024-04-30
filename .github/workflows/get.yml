@@ -30,6 +30,9 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.youtube.com/watch?v=wcgigo35SyA/ -o youtube.wcgigo35SyA.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://minepi.com/ -o minepi.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://dogecoin.com/ -o dogecoin.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://shibatoken.com/ -o shibatoken.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.pepe.vip/ -o www.pepe.vip.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ripple.com/ -o ripple.com.jpg
 
         
         curl https://purge.jsdelivr.net/gh/leazhi/ScreenShot@gh-pages/*.*
