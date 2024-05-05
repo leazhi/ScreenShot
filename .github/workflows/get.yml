@@ -35,6 +35,11 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ripple.com/ -o ripple.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.ether.fi/ -o ether.fi.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ethereum.org/zh/ -o ethereum.org.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://www.vultr.com/ -o vultr.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://www.hostinger.com/ -o www.hostinger.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://cloudcone.com/ -o cloudcone.com.jpg
+
+        
 
         
         curl https://purge.jsdelivr.net/gh/leazhi/ScreenShot@gh-pages/*.*
