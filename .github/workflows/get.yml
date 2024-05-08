@@ -38,6 +38,10 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://www.vultr.com/ -o vultr.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://www.hostinger.com/ -o www.hostinger.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://cloudcone.com/ -o cloudcone.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://www.ventoy.net/cn/download.html -o ventoy.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://www.balena.io/ -o balena.io.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://www.cmdpe.com/ -o cmdpe.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/https://rufus.ie/zh/ -o refus.ie.jpg
 
         
 
